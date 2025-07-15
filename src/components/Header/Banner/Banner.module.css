@@ -1,0 +1,15 @@
+.banner {
+  top: 0;
+  left: 0;
+  width: 100vw; /* ocupa toda a largura visível da tela */
+  height: 350px; /* ajuste a altura como desejar */
+
+  background-repeat: no-repeat;
+  background-size: cover; /* ou "contain", mas "cover" é melhor para banners */
+  background-position: center;
+  padding-top: 68px;
+  background-color: red; /* temporário para visualizar o espaço */
+  box-sizing: border-box; /* garante que padding não estoure o tamanho */
+  margin: 0;
+  z-index: 9999;
+}

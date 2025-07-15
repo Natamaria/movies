@@ -1,0 +1,18 @@
+.search {
+  width: 100%;
+  min-height: 600px;
+  padding-top: 68px;
+  display: flex;
+  flex-direction: column;
+}
+
+.headerArea {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #00bcd4;
+}

@@ -1,0 +1,22 @@
+.container {
+  min-width: 280px;
+  max-width: 600px;
+  margin: 100px auto 0; /* centralizado e mais embaixo */
+  text-align: center;
+}
+
+.input {
+  width: 100%;
+  padding: 10px 15px;
+  border: 1px solid #555;
+  border-radius: 8px;
+  background-color: #1e1e1e;
+  color: #fff;
+  font-size: 1rem;
+  outline: none;
+  transition: 0.3s border-color ease;
+}
+
+.input:focus {
+  border-color: #e50914;
+}
