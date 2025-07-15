@@ -11,7 +11,7 @@ function Home() {
   return (
     <>
       <Header />
-      <Banner image="favoritos" />
+      <Banner image="home" />
 
       <Container>
         <Carousel>
