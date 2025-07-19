@@ -2,12 +2,11 @@ import styles from "./Category.module.css";
 
 // Apenas as categorias exportadas
 export const categories = [
-  "Geografia",
-  "Como fazer e usar",
-  "Astronomia e Geografia",
-  "Climatologia, Meteorologia, Vegetação",
-  "Geologia e Hidrografia",
-  "Desenho animado",
+  "Aulas de Violão",
+  "Hinos Gospel",
+  "Desenhos Animados",
+  "Músicas Clássicas",
+  "Seriados Antigos",
 ];
 
 // Componente
